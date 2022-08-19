@@ -1,1 +1,1 @@
-This file is available to everyone
+This file is available to others
