@@ -1,1 +1,1 @@
-This file is available to others
+This file is available to other branches too
